@@ -248,6 +248,10 @@ body {
 }
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
+  .three .image{
+    width: 45%;
+  }
+  
   .six .hat {
     left: 32%;
   }
@@ -258,6 +262,10 @@ body {
     width: 90%;
   }
 
+  .three .image{
+    width: 45%;
+  }
+  
   .four .text-box {
     width: 90%;
   }
